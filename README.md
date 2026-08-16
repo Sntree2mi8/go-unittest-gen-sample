@@ -1,0 +1,1 @@
+# go-unittest-gen-sample
